@@ -1,0 +1,8 @@
+/node_modules
+/.idea
+/config.js
+/package-lock.json
+/yarn.lock
+/npm-debug.log
+/logs
+/test.js
